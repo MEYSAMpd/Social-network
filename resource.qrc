@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>user-01_generated.jpg</file>
+        <file>16597173.png</file>
+        <file>2312340.png</file>
+        <file>Lock-Icon-PNG-Graphic-Cave.png</file>
+        <file>3597075.png</file>
+        <file>Delete-file-icon.png</file>
+        <file>10233815.png</file>
+        <file>54907784c3b82319fa78bb57df0e90c3.png</file>
+        <file>home-logo.png</file>
+        <file>images.png</file>
+    </qresource>
+</RCC>
